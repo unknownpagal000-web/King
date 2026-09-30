@@ -5,9 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+  "server": 
+    "ip": "ultrasmp1230.aternos.me
+",
+    "port": 20164,
     "version": "1.20.1",
     "try-creative": false
   },
